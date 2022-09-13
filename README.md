@@ -1,6 +1,8 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=wave&&color=778899&height=300&section=header&text=welcome!%20&fontSize=90)
 
 <!--
+### Hi there 👋
 **GitOfJY/GitOfJY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
