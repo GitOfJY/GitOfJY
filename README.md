@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 </p>
 
+![GitOfJY's github stats](https://github-readme-stats.vercel.app/api?username=GitOfJY&show_icons=true)
+
+
 <!--
 ### Hi there 👋
 **GitOfJY/GitOfJY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
