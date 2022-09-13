@@ -15,9 +15,11 @@
 </p>
 
 <div align=center>
+  
 ![GitOfJY's github stats](https://github-readme-stats.vercel.app/api?username=GitOfJY&show_icons=true)
 
 <div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitOfJY&layout=compact)](https://github.com/GitOfJY/github-readme-stats)
 
 
