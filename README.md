@@ -14,7 +14,10 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 </p>
 
+<div align=center>
 ![GitOfJY's github stats](https://github-readme-stats.vercel.app/api?username=GitOfJY&show_icons=true)
+
+<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitOfJY&layout=compact)](https://github.com/GitOfJY/github-readme-stats)
 
 
